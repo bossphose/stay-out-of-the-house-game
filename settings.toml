@@ -1,0 +1,10 @@
+[project]
+app_name          = "Stay Out of The House"
+main_keyword      = "Stay Out of The House game"
+short_description = "Stay Out of The House game is a horror experience where players must navigate a terrifying environment to survive."
+meta_description  = "Explore the ultimate documentation site for the Stay Out of The House game. Find a comprehensive download guide, detailed features overview, and answers in our FAQ section."
+release_date      = "2026-04-08"
+
+additional_pages = [
+
+]
